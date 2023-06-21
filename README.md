@@ -1,4 +1,4 @@
-![Screenshot 2023-06-21 202732](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/5ff5ea1b-2a44-4955-80b0-dd4253d047a0)
+![Final_Image](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/96cebb07-cc49-40a6-9bcd-da8854d90c3a)
 
 # Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG
 
@@ -21,9 +21,7 @@ Data Description:
 The data fields are described below:
 
 ![IMG1](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/fa6f89c3-1c13-4011-9cd6-e3837daf3a95)
-
 ![IMG2](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/0b319e29-751f-49f5-8bba-af1d0c6b0a19)
-
 ![IMG3](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/9650e0db-352d-4b20-8767-25f4c1c7d4bd)
 
 Data Dictionary
