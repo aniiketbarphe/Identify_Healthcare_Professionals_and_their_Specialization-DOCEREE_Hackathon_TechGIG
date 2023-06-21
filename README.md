@@ -29,3 +29,7 @@ Here's a brief version of what you'll find in the data description file.
 
 ![IMG4](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/05b21d34-6806-416d-839a-6546b9ba2467)
 
+Evaluation Metric
+1. Correctness of code / Score Received
+
+Link:- https://www.techgig.com/codegladiators/machine-learning-hackathon
