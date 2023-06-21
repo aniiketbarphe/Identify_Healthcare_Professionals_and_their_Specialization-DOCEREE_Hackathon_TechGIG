@@ -1,1 +1,3 @@
+![Screenshot 2023-06-21 202732](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/5ff5ea1b-2a44-4955-80b0-dd4253d047a0)
+
 # Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG
