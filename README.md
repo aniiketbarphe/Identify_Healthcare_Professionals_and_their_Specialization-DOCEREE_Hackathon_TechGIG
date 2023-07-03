@@ -40,4 +40,12 @@ Correctness of code / Score Received
 
 # Summary
 
-Link:- https://www.techgig.com/codegladiators/machine-learning-hackathon
+**a) Best Submission Score:-**
+
+**b) Best Model:-** 
+
+**c) Competition Link:-**
+
+https://www.techgig.com/codegladiators/machine-learning-hackathon
+
+**d) Rank Scored:-**
