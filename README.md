@@ -6,9 +6,11 @@
 
 The ad server logs contain valuable information such as browser details, IP addresses, geographic locations, search patterns, site urls, and other relevant data. The objective of the hackathon is to build a robust model that can accurately predict whether a user belongs to the HCP category and its specialization id/taxonomy.
 
-Input: Ad server logs containing information on user behavior and other features
+**2) About the Dataset:-**
 
-Output: Given a userid(userplatformuid) and ad server log, classify if the user is an HCP and its specialization (taxonomy).
+**2.1)** Input: Ad server logs containing information on user behavior and other features
+
+**2.2)** Output: Given a userid(userplatformuid) and ad server log, classify if the user is an HCP and its specialization (taxonomy).
 
 The input contains the following type of data:
 
