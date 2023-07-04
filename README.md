@@ -1,5 +1,7 @@
 ![Final_Image](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/96cebb07-cc49-40a6-9bcd-da8854d90c3a)
 
+![healthcare-workers-IMG1](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/35792bed-b8ab-4667-9df0-9c63dad70f26)
+
 # Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG
 
 **1) Problem Statement:-**
