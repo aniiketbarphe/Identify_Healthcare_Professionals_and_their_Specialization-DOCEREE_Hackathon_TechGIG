@@ -2,6 +2,18 @@
 
 ![healthcare-workers-IMG1](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/35792bed-b8ab-4667-9df0-9c63dad70f26)
 
+![HPC_IMG2](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/b3102c43-fe82-4bf3-8f4f-a85c9ed9fb1c)
+
+![HPC_IMG3](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/9f9c9eff-fdb5-4efe-b784-839168145bb7)
+
+![HPC_IMG4](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/6c8dddc9-1290-4cb4-9a4d-b2fdfea4b193)
+
+![HPC_IMG5](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/bba0ff2f-4076-4ae6-a9a9-62bdf5f2780f)
+
+![HPC_IMG6](https://github.com/aniiketbarphe/Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG/assets/84449238/a004d4a5-f7e6-4e4b-98b9-748604a182f6)
+
+
+
 # Identify_Healthcare_Professionals_and_their_Specialization-DOCEREE_Hackathon_TechGIG
 
 **1) Problem Statement:-**
